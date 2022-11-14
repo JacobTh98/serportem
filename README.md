@@ -9,3 +9,7 @@ Serial EIT voltage data emulator.
 4. Insert the ports in the right direction inside the root terminal window.
 5. After that the python script proceeds and the simulated voltage data is written on the serial path.
 6. At the same time you can see a terminal representation inside the root terminal of the position of the simulated object.
+
+## Config
+
+You can change some configurations inside the python programm `electrode_sign_emulation.py`.
